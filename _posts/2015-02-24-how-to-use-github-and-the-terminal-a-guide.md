@@ -124,7 +124,7 @@ Let's go back to the [18f.gsa.gov](https://github.com/18F/18f.gsa.gov) repo from
 
 On this page you will see a list of files and folders in this project. All of the blog posts are in a folder called `_posts.` All of the pages are in a directory called `_pages.` There's a [readme](https://github.com/18F/18f.gsa.gov/blob/staging/README.md) that explains to anyone browsing 18F's `18f.gsa.gov` GitHub repo how some of this works. At the top of that window, you can see a dropdown that says "branch: *staging*."
 
-You are seeing on the website is another view of files and folders as shown here:
+What you're seeing on the website is another view of files and folders as shown here:
 
 ![Screenshot: 18f.gsa.gov's repo in mac folder]({{site.baseurl}}/assets/blog/github-tutorial/w_screenshot2.png)
 
